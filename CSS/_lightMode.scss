@@ -1,0 +1,7 @@
+// 淺色模式
+
+@mixin light-mode {
+  @media (prefers-color-scheme: light) {
+    @content;
+  }
+}

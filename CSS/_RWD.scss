@@ -1,0 +1,56 @@
+
+// RWD 斷點
+
+/* 定義斷點變數 */
+$breakpoints: (
+    "xxl": 1400px,       // 超大桌機
+    "xl": 1200px,        // 桌機
+    "lg": 1024px,        // 筆電
+    "md": 768px,         // 平板
+    "sm": 576px,         // 手機
+    "xs": 400px          // 小型手機
+);
+
+/* 主要 Mixin 的 respond()
+   使用方式：
+   (1)第一種：@include respond(lg) { ... }
+   (2)第二種：min / max（預設 max）
+   (3)第三種：orientation（portrait / landscape）*/
+@mixin respond($breakpoint, $type: max, $orientation: null) {
+    $value: map-get($breakpoints, $breakpoint);
+
+    @if $value == null {
+        @warn "❗ Unknown breakpoint: #{$breakpoint}";
+    } @else {
+        $query: "(#{$type}-width: #{$value})";
+
+        @if $orientation {
+            $query: "#{$query} and (orientation: #{$orientation})";
+        }
+
+        @media #{$query} {
+            @content;
+        }
+    }
+}
+
+/* 自訂寬度 Mixin：respond-custom() 
+   使用方式：@include respond-custom(880px) { ... } */
+@mixin respond-custom($value, $type: max) {
+    @media (#{$type}-width: #{$value}) {
+        @content;
+    }
+}
+
+/* 額外方向快捷 Mixin  */
+@mixin portrait-only {
+  @media (orientation: portrait) {
+    @content;
+  }
+}
+
+@mixin landscape-only {
+  @media (orientation: landscape) {
+    @content;
+  }
+}
