@@ -84,8 +84,8 @@
 
 ## 📁 附件與專案
 
-- [🔗 GitHub 作品集]([https://github.com/WilliamHsieh615](https://github.com/WilliamHsieh615/Front-end))
-- [機器學習、深度學習與自然語言處理 作品集]
+- [🔗 GitHub 作品集]([https://github.com/WilliamHsieh615](https://github.com/WilliamHsieh615/Front-end])
+- [機器學習、深度學習與自然語言處理 作品集](https://github.com/WilliamHsieh615/Curriculum-Vitae/blob/main/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E3%80%81%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E8%88%87%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86%E4%BD%9C%E5%93%81%E9%9B%86.pdf)
 
 ---
 
