@@ -85,9 +85,7 @@
 ## 📁 附件與專案
 
 - [🔗 GitHub 作品集]([https://github.com/WilliamHsieh615](https://github.com/WilliamHsieh615/Front-end))
-- [機器學習、深度學習與自然語言處理]
-- [📄 畢業專題.pdf](./畢業專題.pdf)
-- [🏅 畢業專題得獎獎狀.jpg](./畢業專題得獎獎狀.jpg)
+- [機器學習、深度學習與自然語言處理 作品集]
 
 ---
 
