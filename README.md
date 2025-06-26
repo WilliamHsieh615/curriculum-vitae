@@ -34,7 +34,7 @@
 ## 💻 技能專長
 
 ### 🔸 前端技術
-- HTML / CSS / SCSS / JavaScript
+- HTML / CSS / Sass / JavaScript
 - jQuery、Vue.js、Bootstrap5
 
 ### 🔸 程式語言
@@ -55,6 +55,9 @@
 
 ### 🔸 辦公室應用
 - Excel、Word、PowerPoint
+
+### 🔸 版本控制與團隊協作
+- Git / GitHub
 
 ---
 
@@ -81,9 +84,9 @@
 
 ## 📁 附件與專案
 
+- [🔗 GitHub 作品集](https://github.com/WilliamHsieh615)
 - [📄 畢業專題.pdf](./畢業專題.pdf)
 - [🏅 畢業專題得獎獎狀.jpg](./畢業專題得獎獎狀.jpg)
-- [🔗 GitHub 作品集](https://github.com/WilliamHsieh615)
 
 ---
 
