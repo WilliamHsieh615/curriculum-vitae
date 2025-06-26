@@ -1,7 +1,0 @@
-// 深色模式
-
-@mixin dark-mode {
-  @media (prefers-color-scheme: dark) {
-    @content;
-  }
-}
