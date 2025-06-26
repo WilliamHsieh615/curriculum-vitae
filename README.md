@@ -46,9 +46,9 @@
 
 ### 🔸 AI 與資料分析
 - 機器學習：DNN、CNN、AutoEncoder、RNN、LSTM
-- 深度學習：TensorFlow、PyTorch
-- NLP：Word2Vec、BERT、Transformer、RAG
-- 影像處理：OpenCV、YOLO、MediaPipe
+- 深度學習框架：TensorFlow、PyTorch
+- 影像辨識與物件偵測：OpenCV、YOLO、MediaPipe
+- 自然語言處理：Word2Vec、BERT、Transformer、RAG
 
 ### 🔸 資料庫 / 數據分析
 - MySQL、SQL Server、Power BI
