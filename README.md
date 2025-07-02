@@ -93,8 +93,16 @@
 
 ## 📁 附件與專案
 
-- [前端 作品集](https://github.com/WilliamHsieh615/Front-end)
-- [機器學習、深度學習與自然語言處理 作品集](https://github.com/WilliamHsieh615/Curriculum-Vitae/blob/main/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E3%80%81%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E8%88%87%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86%E4%BD%9C%E5%93%81%E9%9B%86.pdf)
+## 📁 相關作品與附件
+
+- 🎨 [前端作品集](https://github.com/WilliamHsieh615/Front-end)  
+  收錄多個響應式網站、互動動畫與 Vue.js 專案，展示 HTML/CSS/JavaScript 前端技術應用。
+
+- 🤖 [機器學習、深度學習與自然語言處理作品集](https://github.com/WilliamHsieh615/Curriculum-Vitae/blob/main/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E3%80%81%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E8%88%87%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86%E4%BD%9C%E5%93%81%E9%9B%86.pdf)  
+  包含以 CNN、RNN、Transformer 等模型進行分類、預測、語意分析與問答系統開發。
+
+- ☕ [Java 會員資料系統](https://github.com/WilliamHsieh615/MemberForm)  
+  使用 Java Servlet + JSP 實作的會員資料填寫系統，具備表單驗證、資料確認與 MySQL 資料儲存功能。
 
 ---
 
