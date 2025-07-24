@@ -44,7 +44,7 @@
 ## 💻 技能專長
 
 ### 🔸 前端技術
-- HTML / CSS / Sass / JavaScript
+- HTML、CSS、Sass、JavaScript
 - jQuery、Vue.js、Bootstrap5
 
 ### 🔸 程式語言
