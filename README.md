@@ -91,18 +91,28 @@
 
 ---
 
-## 📁 附件與專案
-
 ## 📁 相關作品與附件
 
-- 🎨 [前端作品集](https://github.com/WilliamHsieh615/Front-end)  
+- 🔗 [Sweetaste](https://github.com/WilliamHsieh615/Sweetaste)  
+  現代風格甜點購物網站，使用 HTML、SCSS、JavaScript、Webpack 打造，具備商品瀏覽、購物車、結帳流程與會員系統，並整合 Java 後端
+
+- 🔗 [會員資料管理系統](https://github.com/WilliamHsieh615/MemberManagementSystem)  
+  Java作品使用 Java Servlet + JSP 實作的會員管理系統，具備填寫、驗證與 MySQL 儲存功能
+
+- 🔗 [飲料店訂餐系統](https://github.com/WilliamHsieh615/BeverageOrderingSystem)  
+  一個使用 Vue 3 (Options API) 與 Bootstrap 5，並透過 Vite 快速開發的飲料店點餐系統，包含商品列表、購物車管理與結帳功能
+
+- 🔗 [個人品牌網站](https://github.com/WilliamHsieh615/PersonalBrandingWebsite)  
+  個人品牌與部落格網站 · 前端工程師作品集（包含動態文章、Swiper 輪播、AOS 動畫、Mailchimp 訂閱）
+
+- 🔗 [六角學院形象網站](https://github.com/WilliamHsieh615/HexSchoolWebsite)
+  設計的六角學院形象網站，採用一頁式設計，呈現品牌介紹、服務內容與課程特色，使用 HTML、CSS 打造響應式排版，展現現代化設計風格
+
+- 🔗 [前端作品集](https://github.com/WilliamHsieh615/Front-end)  
   收錄多個響應式網站、互動動畫與 Vue.js 專案，展示 HTML/CSS/JavaScript 前端技術應用。
 
-- 🤖 [機器學習、深度學習與自然語言處理作品集](https://github.com/WilliamHsieh615/Curriculum-Vitae/blob/main/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E3%80%81%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E8%88%87%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86%E4%BD%9C%E5%93%81%E9%9B%86.pdf)  
+- 🔗 [機器學習、深度學習與自然語言處理作品集](https://github.com/WilliamHsieh615/Curriculum-Vitae/blob/main/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E3%80%81%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E8%88%87%E8%87%AA%E7%84%B6%E8%AA%9E%E8%A8%80%E8%99%95%E7%90%86%E4%BD%9C%E5%93%81%E9%9B%86.pdf)  
   包含以 CNN、RNN、Transformer 等模型進行分類、預測、語意分析與問答系統開發。
-
-- ☕ [Java 會員資料系統](https://github.com/WilliamHsieh615/MemberForm)  
-  使用 Java Servlet + JSP 實作的會員資料填寫系統，具備表單驗證、資料確認與 MySQL 資料儲存功能。
 
 ---
 
