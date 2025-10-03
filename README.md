@@ -33,6 +33,7 @@
 - **六角學院**
   - 前端課程培訓（2025/3–至今）
   - 軟體工程師體驗營（2025/5–2025/06）
+  - 前端新手營 （2025/8–2025/09）
 - **巨匠電腦(2024/9-至今)**
   - Java 程式設計 144小時
   - C#.NET 程式設計 18小時
@@ -44,15 +45,19 @@
 ## 💻 技能專長
 
 ### 🔸 前端技術
-- HTML、CSS、Sass、JavaScript
-- jQuery、Vue.js、Bootstrap5
+- HTML
+- CSS、Sass
+- JavaScript、jQuery、Vue.js
+- Bootstrap5
 
 ### 🔸 程式語言
 - Java、JavaScript、Python
 - C、C++、C#.NET
 
 ### 🔸 Web 應用與框架
-- Jakarta EE (Java EE)
+- Spring Boot ( Web API、RESTful API、Spring MVC )
+- Spring Security ( 認證與授權 )
+- Jakarta EE ( Servlet、JSP、JPA )
 
 ### 🔸 AI 與資料分析
 - 機器學習：DNN、CNN、AutoEncoder、RNN、LSTM
