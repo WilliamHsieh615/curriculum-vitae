@@ -49,10 +49,21 @@
 - CSS、Sass
 - JavaScript、jQuery、Vue.js
 - Bootstrap5
+- Nuxt3、Nuxt4
+- Vite
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ### 🔸 程式語言
-- Java、JavaScript、Python
-- C、C++、C#.NET
+- 熟悉 Java、JavaScript、Python
+- 基礎 C、C++、C#.NET
 
 ### 🔸 Web 應用與框架
 - Spring Boot ( Web API、RESTful API、Spring MVC )
