@@ -65,10 +65,20 @@
 - 熟悉 Java、JavaScript、Python
 - 基礎 C、C++、C#.NET
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
 ### 🔸 Web 應用與框架
 - Spring Boot ( Web API、RESTful API、Spring MVC )
 - Spring Security ( 認證與授權 )
 - Jakarta EE ( Servlet、JSP、JPA )
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007FFF?style=flat&logo=jakartaee&logoColor=white)
 
 ### 🔸 AI 與資料分析
 - 機器學習：DNN、CNN、AutoEncoder、RNN、LSTM
@@ -76,26 +86,36 @@
 - 影像辨識與物件偵測：OpenCV、YOLO、MediaPipe
 - 自然語言處理：Word2Vec、BERT、Transformer、RAG
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF9900?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white)
+![Word2Vec](https://img.shields.io/badge/Word2Vec-007ACC?style=flat)
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat)
+![Transformer](https://img.shields.io/badge/Transformer-6C3483?style=flat)
+![RAG](https://img.shields.io/badge/RAG-1F618D?style=flat)
+
 ### 🔸 資料庫 / 數據分析
 - MySQL、SQL Server、Power BI
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
 
 ### 🔸 辦公室應用
 - Excel、Word、PowerPoint
 
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+
 ### 🔸 版本控制與團隊協作
 - Git / GitHub
 
----
-
-## 🛠️ 技能標籤
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
