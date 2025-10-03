@@ -132,14 +132,20 @@
 - 🔗 [前端作品集](https://williamhsieh615.github.io/frontend-portfolio/)  
   收錄多個響應式網站、互動動畫與 Vue.js 專案，展示 HTML/CSS/JavaScript 前端技術應用。
 
+- 🔗 [TodoList](https://github.com/WilliamHsieh615/todolist)  
+  使用 Vue 3 + Vite 前端與 Spring Boot + Spring Security 後端，支援會員註冊 / 登入（JWT）/重設密碼、Todo CRUD，實作前後端認證與 API 整合。
+
+- 🔗 [Fruit & Essence](https://github.com/WilliamHsieh615/fruit-and-essence)  
+  模擬美國冷壓果汁官網，使用 Vue 3 開發與 Next 4 打包進行前端開發，後端使用 Spring Boot + Spring Security，整合前後端實作完整購物網站功能。
+
 - 🔗 [Sweetaste](https://github.com/WilliamHsieh615/sweetaste)  
-  現代風格甜點購物網站，使用 HTML、SCSS、JavaScript、Webpack 打造，具備商品瀏覽、購物車、結帳流程與會員系統，並整合 Java 後端
+  現代風格甜點購物網站，使用 HTML、SCSS、JavaScript、Webpack 打造，具備商品瀏覽、購物車、結帳流程與會員系統，並整合 Java 後端。
 
 - 🔗 [會員資料管理系統](https://github.com/WilliamHsieh615/member-management-system)  
-  Java作品使用 Java Servlet + JSP 實作的會員管理系統，具備填寫、驗證與 MySQL 儲存功能
+  Java作品使用 Java Servlet + JSP 實作的會員管理系統，具備填寫、驗證與 MySQL 儲存功能。
 
 - 🔗 [飲料店訂餐系統](https://github.com/WilliamHsieh615/beverage-ordering-system)  
-  一個使用 Vue 3 (Options API) 與 Bootstrap 5，並透過 Vite 快速開發的飲料店點餐系統，包含商品列表、購物車管理與結帳功能
+  一個使用 Vue 3 (Options API) 與 Bootstrap 5，並透過 Vite 快速開發的飲料店點餐系統，包含商品列表、購物車管理與結帳功能。
 
 
 
