@@ -129,7 +129,7 @@
 
 ## 📁 相關作品與附件
 
-- 🔗 [前端作品集](https://github.com/WilliamHsieh615/frontend-portfolio)  
+- 🔗 [前端作品集](https://williamhsieh615.github.io/frontend-portfolio/)  
   收錄多個響應式網站、互動動畫與 Vue.js 專案，展示 HTML/CSS/JavaScript 前端技術應用。
 
 - 🔗 [Sweetaste](https://github.com/WilliamHsieh615/sweetaste)  
