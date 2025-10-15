@@ -139,7 +139,7 @@
   模擬美國冷壓果汁官網，使用 Vue 3 開發與 Next 4 打包進行前端開發，後端使用 Spring Boot + Spring Security，整合前後端實作完整購物網站功能。
 
 - 🔗 [Sweetaste](https://github.com/WilliamHsieh615/sweetaste)  
-  現代風格甜點購物網站，使用 HTML、SCSS、JavaScript、Webpack 打造，具備商品瀏覽、購物車、結帳流程與會員系統，並整合 Java 後端。
+  現代風格甜點購物網站，前端以 HTML、SCSS、JavaScript 搭配 Webpack 打包，後端採用 Jakarta EE (Java EE) 框架開發，實作商品瀏覽、購物車、結帳流程與會員系統等功能。
 
 - 🔗 [會員資料管理系統](https://github.com/WilliamHsieh615/member-management-system)  
   Java作品使用 Java Servlet + JSP 實作的會員管理系統，具備填寫、驗證與 MySQL 儲存功能。
