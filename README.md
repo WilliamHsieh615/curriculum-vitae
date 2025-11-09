@@ -1,4 +1,4 @@
-# 謝文育 William Hsieh 履歷
+# 謝文育 William Hsieh
 
 🌐 [點我瀏覽履歷網頁](https://WilliamHsieh615.github.io/curriculum-vitae/)
 
