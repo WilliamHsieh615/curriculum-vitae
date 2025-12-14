@@ -4,18 +4,26 @@
 
 ---
 
-## 🧑‍💼 關於我
+## 🧑‍💼 關於我 About Me
 
 我是一名 Java 軟體工程師，從銀行行員成功轉職為軟體開發者。
-擁有 五年以上銀行金融業經驗，曾負責 客戶服務、金融商品諮詢與銷售、銀行內部作業流程處理、風險管理與法規遵循。
-在職期間積極參與 數位金融工具與科技應用的導入與實作，培養了紮實的金融實務與法遵風險意識。
+I am a Java software engineer who successfully transitioned from a banking career to software development.
 
-轉職後，我專注於 後端 Java 開發，同時熟悉 前端技術（Vue/Nuxt），具備完整的全端開發能力。
+擁有五年以上銀行金融業經驗，曾負責客戶服務、金融商品諮詢與銷售、銀行內部作業流程處理、風險管理與法規遵循。
+With over 5 years of experience in the banking and finance industry, I handled customer service, financial product consultation and sales, internal banking processes, risk management, and regulatory compliance.
+
+在職期間積極參與數位金融工具與科技應用的導入與實作，培養了紮實的金融實務與法遵風險意識。
+During this period, I actively participated in implementing digital finance tools and technology applications, developing solid financial and compliance awareness.
+
+轉職後，我專注於後端 Java 開發，同時熟悉前端技術（Vue/Nuxt），具備完整的全端開發能力。
+After transitioning to software development, I focused on Java backend development while being proficient in frontend technologies (Vue/Nuxt), achieving full-stack development capabilities.
+
 我也正持續學習 AI 技術應用與自動化開發，期望結合金融背景與軟體專業，打造兼具穩健與創新的解決方案。
+I am continuously learning AI applications and automation development, aiming to combine my financial background with software expertise to deliver robust and innovative solutions.
 
 ---
 
-## 💼 工作經歷
+## 💼 工作經歷 Work Experience
 
 - **采盟股份有限公司 Ever Rich Duty Free Co., Ltd.** ｜Java 軟體工程師 Java Software Engineer  
   📍 台北市 Taipei｜2025/11 - 至今(Present)
@@ -27,30 +35,30 @@
 
 ## 🎓 教育與培訓 Education & Training
 
-- **銘傳大學 國際企業學系**｜學士｜2013/09 – 2017/06
-- **國立陽明交通大學**
-  - 光子(矽光子&量子)與 AI 應用專業人才養成班｜2024/11 - 2025/01
-  - 半導體 AI 與 ChatGPT 跨領域班｜2023/08 - 2023/11
-  - 半導體 AI 與 ChatGPT 應用班｜2024/09 - 2024/12
-  - 資安攻防與 AI 應用實戰班｜2025/04 - 2025/08
-- **六角學院**
-  - 前端影音課程｜2025/03 - 至今
-  - 軟體工程師體驗營｜2025/04 - 2025/06
-  - Vue3 前端新手營｜2025/07 - 2025/09
-  - Vibe Coding 公益程式體驗營｜2025/10 - 2025/12
-  - TypeScript 實戰課｜2025/10 - 2025/12
-- **巨匠電腦**
-  - Java 基礎程式設計｜2024/09 - 2024/10
-  - Java OCP JP 程式設計師認證班｜2024/10 - 2024/12
-  - Java Web OCE JWCD 元件系統開發認證｜2024/12 - 2025/03
-  - C 語言程式設計｜2024/12 - 2025/01
-  - C++ 程式設計｜2025/01 - 2025/02
-  - C#.NET程式設計｜2025/01 - 2025/02
-  - 資料庫概論｜2024/10 - 2024/11
+- **銘傳大學 Ming Chuan University**｜國際企業學系 Bachelor of International Business｜2013/09 – 2017/06
+- **國立陽明交通大學 National Yang Ming Chiao Tung University**
+  - 光子(矽光子&量子)與 AI 應用專業人才養成班 Photonics (Silicon Photonics & Quantum) & AI Application Training｜2024/11 - 2025/01
+  - 半導體 AI 與 ChatGPT 跨領域班 Semiconductor AI & ChatGPT Cross-domain Training｜2023/08 - 2023/11
+  - 半導體 AI 與 ChatGPT 應用班 Semiconductor AI & ChatGPT Application Course｜2024/09 - 2024/12
+  - 資安攻防與 AI 應用實戰班 Cybersecurity & AI Practical Course｜2025/04 - 2025/08
+- **六角學院 Hex School**
+  - 前端影音課程 Frontend Multimedia Course｜2025/03 - 至今(Present)
+  - 軟體工程師體驗營 Software Engineer Bootcamp｜2025/04 - 2025/06
+  - Vue3 前端新手營 Beginner Frontend Camp｜2025/07 - 2025/09
+  - Vibe Coding 公益程式體驗營 Vibe Coding Charity Coding Cam｜2025/10 - 2025/12
+  - TypeScript 實戰課 TypeScript Practical Course｜2025/10 - 2025/12
+- **巨匠電腦 PC School**
+  - Java 基礎程式設計 Java Basic Programming｜2024/09 - 2024/10
+  - Java OCP JP 程式設計師認證班 Java OCP JP Certification｜2024/10 - 2024/12
+  - Java Web OCE JWCD Java Web OCE JWCD Component Development Certification 元件系統開發認證｜2024/12 - 2025/03
+  - C 語言程式設計 C Programming｜2024/12 - 2025/01
+  - C++ 程式設計 C++ Programming｜2025/01 - 2025/02
+  - C#.NET程式設計 C#.NET Programming｜2025/01 - 2025/02
+  - 資料庫概論 Database Fundamentals｜2024/10 - 2024/11
 - **HaHow**
-  - Java 工程師必備！Spring Boot 零基礎入門｜2025/08 - 至今
-  - 資安一把罩！Spring Security 零基礎入門｜2025/09 - 至今
-  - Docker 部署入門完全指南-圖片速學攻略｜2025/10 - 至今
+  - Java 工程師必備！Spring Boot 零基礎入門 Essential Java Engineer: Spring Boot Beginner｜2025/08 - 至今
+  - 資安一把罩！Spring Security 零基礎入門 Essential Cybersecurity: Spring Security Beginner｜2025/09 - 至今
+  - Docker 部署入門完全指南-圖片速學攻略 Docker Deployment Complete Guide｜2025/10 - 至今
 
 ---
 
