@@ -7,18 +7,23 @@
 ## 🧑‍💼 關於我 About Me
 
 我是一名 Java 軟體工程師，從銀行行員成功轉職為軟體開發者。
+
 I am a Java software engineer who successfully transitioned from a banking career to software development.
 
 擁有五年以上銀行金融業經驗，曾負責客戶服務、金融商品諮詢與銷售、銀行內部作業流程處理、風險管理與法規遵循。
+
 With over 5 years of experience in the banking and finance industry, I handled customer service, financial product consultation and sales, internal banking processes, risk management, and regulatory compliance.
 
 在職期間積極參與數位金融工具與科技應用的導入與實作，培養了紮實的金融實務與法遵風險意識。
+
 During this period, I actively participated in implementing digital finance tools and technology applications, developing solid financial and compliance awareness.
 
 轉職後，我專注於後端 Java 開發，同時熟悉前端技術（Vue/Nuxt），具備完整的全端開發能力。
+
 After transitioning to software development, I focused on Java backend development while being proficient in frontend technologies (Vue/Nuxt), achieving full-stack development capabilities.
 
 我也正持續學習 AI 技術應用與自動化開發，期望結合金融背景與軟體專業，打造兼具穩健與創新的解決方案。
+
 I am continuously learning AI applications and automation development, aiming to combine my financial background with software expertise to deliver robust and innovative solutions.
 
 ---
