@@ -116,7 +116,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
 
-### 🔸 開發與運行環境 DevOps
+### 🔸 開發與運行環境 DevOps & Deployment
 - Docker
 - Tomcat
 
