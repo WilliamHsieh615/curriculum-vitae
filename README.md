@@ -138,7 +138,7 @@
 
 ---
 
-## 📁 相關作品與附件
+## 📁 相關作品 Projects
 
 - 🔗 [前端作品集](https://williamhsieh615.github.io/frontend-portfolio/)  
   收錄多個響應式網站、互動動畫與 Vue.js 專案，展示 HTML/CSS/JavaScript 前端技術應用。
@@ -160,6 +160,14 @@
 
 ---
 
+## 💼 應徵職位 Target Positions
+
+- Java 軟體工程師
+- 全端工程師 / Full-Stack Developer
+- IT 工程師 / IT Engineer
+
+---
+
 ## 📫 聯絡方式 Contact Me
 - GitHub: [WilliamHsieh615](https://github.com/WilliamHsieh615) 
 - Email: best5946@gmail.com
@@ -167,7 +175,7 @@
 
 ---
 
-## 自傳
+## 📝 自傳 Personal Statement
 
 ### 中文自傳
 我是一名充滿熱忱與學習力的軟體工程師，擁有金融背景，熟悉銀行業務與法遵規範。
@@ -175,7 +183,7 @@
 在過去專案中，我負責設計後端 API、整合前端介面、部署 CI/CD 流程，並與團隊協作完成多個全端專案。
 我希望能加入重視技術與創新的公司，貢獻我的專業技能並持續成長。
 
-### 英文自傳
+### English Personal Statement
 I am a passionate and fast-learning software engineer with a financial background, familiar with banking operations and compliance regulations.
 After transitioning to software development, I focused on Java backend and full-stack development, while continuously learning AI and data analytics technologies.
 In previous projects, I was responsible for designing backend APIs, integrating frontend interfaces, deploying CI/CD pipelines, and collaborating with teams to deliver full-stack applications.
