@@ -59,7 +59,7 @@
 ### 🔸 前端技術
 - HTML
 - CSS、Sass
-- JavaScript、jQuery、Vue.js
+- TypeScript、JavaScript、jQuery、Vue.js
 - Bootstrap5
 - Nuxt3、Nuxt4
 - Vite
@@ -68,6 +68,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
@@ -129,50 +130,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+### 🔸 其他
+- Docker、Tomcat
 
-### 🔹 Backend / Java
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007FFF?style=flat&logo=jakartaee&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
-
-### 🔹 Frontend / Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### 🔹 AI / ML / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FF9900?style=flat&logo=opencv&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat)
-![Transformer](https://img.shields.io/badge/Transformer-6C3483?style=flat)
-
-### 🔹 Database / BI
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
-
-### 🔹 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📬 聯絡方式
-
-- 📧 Email: best5946@gmail.com  
-- 📱 手機: 0988-098-892（08:00–21:00 可聯絡）   
-- 🧑‍💻 GitHub: [WilliamHsieh615](https://github.com/WilliamHsieh615)
 
 ---
 
@@ -198,5 +160,29 @@
 
 ---
 
-> 熱愛學習、樂於挑戰，也歡迎下班或假期期間的 自由接案 / 合作機會！
+## 📫 聯絡方式 Contact Me
+- GitHub: [WilliamHsieh615](https://github.com/WilliamHsieh615) 
+- Email: best5946@gmail.com
+- Mobile: +886 988-098-892(08:00–21:00)
+
+---
+
+## 自傳
+
+- 中文自傳
+我是一名充滿熱忱與學習力的軟體工程師，擁有金融背景，熟悉銀行業務與法遵規範。
+轉職至軟體開發後，我專注於 Java 後端與全端開發，並持續學習 AI 與資料分析技術。
+在過去專案中，我負責設計後端 API、整合前端介面、部署 CI/CD 流程，並與團隊協作完成多個全端專案。
+我希望能加入重視技術與創新的公司，貢獻我的專業技能並持續成長。
+
+- 英文自傳
+I am a passionate and fast-learning software engineer with a financial background, familiar with banking operations and compliance regulations.
+After transitioning to software development, I focused on Java backend and full-stack development, while continuously learning AI and data analytics technologies.
+In previous projects, I was responsible for designing backend APIs, integrating frontend interfaces, deploying CI/CD pipelines, and collaborating with teams to deliver full-stack applications.
+I aim to join a company that values technology and innovation, contributing my skills and continuing to grow professionally.
+
+---
+
+> 熱愛學習、樂於挑戰，歡迎自由接案或合作！  
+> Open to freelance projects and collaboration opportunities!
 
