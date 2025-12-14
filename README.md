@@ -75,7 +75,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 後端技術 Backend / Java
+### 🔸 後端技術 Backend / Java
 - Java
 - Spring Boot ( Web API、RESTful API、Spring MVC )
 - Spring Security ( 認證與授權、JWT )
@@ -86,7 +86,7 @@
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007FFF?style=flat&logo=jakartaee&logoColor=white)
 
-### 後端技術 Backend / Python
+### 🔸 後端技術 Backend / Python
 - Python
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
