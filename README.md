@@ -1,6 +1,6 @@
 # 謝文育 William Hsieh
 
-🌐 [點我瀏覽履歷網頁](https://WilliamHsieh615.github.io/curriculum-vitae/)
+🌐 [個人品牌網站 Personal Branding Website](https://williamhsieh615.github.io/personal-branding-website/HTML/index.html)
 
 ---
 
