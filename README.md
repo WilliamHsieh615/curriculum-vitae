@@ -139,7 +139,7 @@
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### 🔸 其他 Other (可閱讀但不熟悉)
+### 🔸 其他語言 Other Languages (基礎 Basic / 可閱讀 Readable)
 - C 語言
 - C++
 - C#
@@ -147,8 +147,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-
 
 ---
 
