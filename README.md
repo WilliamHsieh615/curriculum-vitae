@@ -54,12 +54,12 @@
 
 ---
 
-## 💻 技能專長
+## 💻 技能專長 Skills
 
-### 🔸 前端技術
-- HTML
-- CSS、Sass
-- TypeScript、JavaScript、jQuery、Vue.js
+### 🔸 前端技術 Frontend
+- HTML5
+- CSS3、Sass
+- JavaScript、TypeScript、jQuery、Vue
 - Bootstrap5
 - Nuxt3、Nuxt4
 - Vite
@@ -69,31 +69,33 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
+### 後端技術 Backend
+- Java
+- Spring Boot ( Web API、RESTful API、Spring MVC )
+- Spring Security ( 認證與授權、JWT )
+- Jakarta EE ( Servlet、JSP、JPA )
+- Docker
+- Tomcat
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007FFF?style=flat&logo=jakartaee&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+
 ### 🔸 程式語言
 - 熟悉 Java、JavaScript、Python
 - 基礎 C、C++、C#.NET
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-### 🔸 Web 應用與框架
-- Spring Boot ( Web API、RESTful API、Spring MVC )
-- Spring Security ( 認證與授權、JWT )
-- Jakarta EE ( Servlet、JSP、JPA )
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007FFF?style=flat&logo=jakartaee&logoColor=white)
-
-### 🔸 AI 與資料分析
+### 🔸 AI、資料分析
 - 機器學習：DNN、CNN、AutoEncoder、RNN、LSTM
 - 深度學習框架：TensorFlow、PyTorch
 - 影像辨識與物件偵測：OpenCV、YOLO、MediaPipe
@@ -109,14 +111,14 @@
 ![Transformer](https://img.shields.io/badge/Transformer-6C3483?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-1F618D?style=flat)
 
-### 🔸 資料庫 / 數據分析
+### 🔸 資料庫 Database / 數據分析
 - MySQL、SQL Server、Power BI
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
 
-### 🔸 辦公室應用
+### 🔸 辦公室應用 Office
 - Excel、Word、PowerPoint
 
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat&logo=microsoft-powerpoint&logoColor=white)
@@ -124,7 +126,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
-### 🔸 版本控制與團隊協作
+### 🔸 版本控制 Version Control
 - Git / GitHub
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -132,9 +134,11 @@
 
 ### 🔸 其他
 - Docker、Tomcat
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+
 
 ---
 
