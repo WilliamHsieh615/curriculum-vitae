@@ -91,11 +91,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🔸 程式語言
-- 熟悉 Java、JavaScript、Python
-- 基礎 C、C++、C#.NET
-
-
 ### 🔸 AI、資料分析
 - 機器學習 Machine Learning：DNN、CNN、AutoEncoder、RNN、LSTM
 - 深度學習框架 Deep Learning：TensorFlow、PyTorch
