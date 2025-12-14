@@ -42,20 +42,20 @@ I am continuously learning AI applications and automation development, aiming to
 
 - **銘傳大學 Ming Chuan University**｜國際企業學系 Bachelor of International Business｜2013/09 – 2017/06
 - **國立陽明交通大學 National Yang Ming Chiao Tung University**
-  - 光子(矽光子&量子)與 AI 應用專業人才養成班 Photonics (Silicon Photonics & Quantum) & AI Application Training｜2024/11 - 2025/01
-  - 半導體 AI 與 ChatGPT 跨領域班 Semiconductor AI & ChatGPT Cross-domain Training｜2023/08 - 2023/11
-  - 半導體 AI 與 ChatGPT 應用班 Semiconductor AI & ChatGPT Application Course｜2024/09 - 2024/12
-  - 資安攻防與 AI 應用實戰班 Cybersecurity & AI Practical Course｜2025/04 - 2025/08
+  - 光子(矽光子&量子)與 AI 應用專業人才養成班 ***Photonics (Silicon Photonics & Quantum) & AI Application Training***｜2024/11 - 2025/01
+  - 半導體 AI 與 ChatGPT 跨領域班 ***Semiconductor AI & ChatGPT Cross-domain Training***｜2023/08 - 2023/11
+  - 半導體 AI 與 ChatGPT 應用班 ***Semiconductor AI & ChatGPT Application Course***｜2024/09 - 2024/12
+  - 資安攻防與 AI 應用實戰班 ***Cybersecurity & AI Practical Course***｜2025/04 - 2025/08
 - **六角學院 Hex School**
-  - 前端影音課程 Frontend Multimedia Course｜2025/03 - 至今(Present)
-  - 軟體工程師體驗營 Software Engineer Bootcamp｜2025/04 - 2025/06
-  - Vue3 前端新手營 Beginner Frontend Camp｜2025/07 - 2025/09
-  - Vibe Coding 公益程式體驗營 Vibe Coding Charity Coding Cam｜2025/10 - 2025/12
-  - TypeScript 實戰課 TypeScript Practical Course｜2025/10 - 2025/12
+  - 前端影音課程 ***Frontend Multimedia Course***｜2025/03 - 至今(Present)
+  - 軟體工程師體驗營 ***Software Engineer Bootcamp***｜2025/04 - 2025/06
+  - Vue3 前端新手營 ***Vue3 Beginner Frontend Camp***｜2025/07 - 2025/09
+  - Vibe Coding 公益程式體驗營 ***Vibe Coding Charity Coding Camp***｜2025/10 - 2025/12
+  - TypeScript 實戰課 ***TypeScript Practical Course***｜2025/10 - 2025/12
 - **巨匠電腦 PC School**
-  - Java 基礎程式設計 Java Basic Programming｜2024/09 - 2024/10
-  - Java OCP JP 程式設計師認證班 Java OCP JP Certification｜2024/10 - 2024/12
-  - Java Web OCE JWCD Java Web OCE JWCD Component Development Certification 元件系統開發認證｜2024/12 - 2025/03
+  - Java 基礎程式設計 ***Java Basic Programming***｜2024/09 - 2024/10
+  - Java OCP JP 程式設計師認證班 ***Java OCP JP Certification***｜2024/10 - 2024/12
+  - Java Web OCE JWCD 元件系統開發認證 Java Web OCE JWCD Component Development Certification｜2024/12 - 2025/03
   - C 語言程式設計 C Programming｜2024/12 - 2025/01
   - C++ 程式設計 C++ Programming｜2025/01 - 2025/02
   - C#.NET程式設計 C#.NET Programming｜2025/01 - 2025/02
