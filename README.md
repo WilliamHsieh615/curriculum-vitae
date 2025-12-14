@@ -25,24 +25,32 @@
 
 ---
 
-## 🎓 教育與培訓
+## 🎓 教育與培訓 Education & Training
 
-- **銘傳大學 國際企業學系**｜2013/09 – 2017/06｜學士
-
-- **國立陽明交通大學**    
-  - AI 與光子(矽光子&量子) 專業養成班（2024/11–2025/01）
-  - 半導體 AI 與 ChatGPT 應用班（2024/09–2024/11）
-  - 半導體 AI 與 ChatGPT 跨領域班（2023/09–2023/11）
-  - 資安攻防與AI應用實戰班（2025/05–2025/08）
+- **銘傳大學 國際企業學系**｜學士｜2013/09 – 2017/06
+- **國立陽明交通大學**
+  - 光子(矽光子&量子)與 AI 應用專業人才養成班｜2024/11 - 2025/01
+  - 半導體 AI 與 ChatGPT 跨領域班｜2023/08 - 2023/11
+  - 半導體 AI 與 ChatGPT 應用班｜2024/09 - 2024/12
+  - 資安攻防與 AI 應用實戰班｜2025/04 - 2025/08
 - **六角學院**
-  - 前端課程培訓（2025/3–至今）
-  - 軟體工程師體驗營（2025/5–2025/06）
-  - 前端新手營 （2025/8–2025/09）
+  - 前端影音課程｜2025/03 - 至今
+  - 軟體工程師體驗營｜2025/04 - 2025/06
+  - Vue3 前端新手營｜2025/07 - 2025/09
+  - Vibe Coding 公益程式體驗營｜2025/10 - 2025/12
+  - TypeScript 實戰課｜2025/10 - 2025/12
 - **巨匠電腦**
-  - Java 程式設計 144小時
-  - C#.NET 程式設計 18小時
-  - C++ 程式設計 18小時
-  - C語言 程式設計 18小時
+  - Java 基礎程式設計｜2024/09 - 2024/10
+  - Java OCP JP 程式設計師認證班｜2024/10 - 2024/12
+  - Java Web OCE JWCD 元件系統開發認證｜2024/12 - 2025/03
+  - C 語言程式設計｜2024/12 - 2025/01
+  - C++ 程式設計｜2025/01 - 2025/02
+  - C#.NET程式設計｜2025/01 - 2025/02
+  - 資料庫概論｜2024/10 - 2024/11
+- **HaHow**
+  - Java 工程師必備！Spring Boot 零基礎入門｜2025/08 - 至今
+  - 資安一把罩！Spring Security 零基礎入門｜2025/09 - 至今
+  - Docker 部署入門完全指南-圖片速學攻略｜2025/10 - 至今
 
 ---
 
@@ -118,6 +126,43 @@
 ### 🔸 版本控制與團隊協作
 - Git / GitHub
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+
+### 🔹 Backend / Java
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007FFF?style=flat&logo=jakartaee&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+
+### 🔹 Frontend / Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### 🔹 AI / ML / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF9900?style=flat&logo=opencv&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat)
+![Transformer](https://img.shields.io/badge/Transformer-6C3483?style=flat)
+
+### 🔹 Database / BI
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
+
+### 🔹 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
