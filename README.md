@@ -169,13 +169,13 @@
 
 ## 自傳
 
-- 中文自傳
+### 中文自傳
 我是一名充滿熱忱與學習力的軟體工程師，擁有金融背景，熟悉銀行業務與法遵規範。
 轉職至軟體開發後，我專注於 Java 後端與全端開發，並持續學習 AI 與資料分析技術。
 在過去專案中，我負責設計後端 API、整合前端介面、部署 CI/CD 流程，並與團隊協作完成多個全端專案。
 我希望能加入重視技術與創新的公司，貢獻我的專業技能並持續成長。
 
-- 英文自傳
+### 英文自傳
 I am a passionate and fast-learning software engineer with a financial background, familiar with banking operations and compliance regulations.
 After transitioning to software development, I focused on Java backend and full-stack development, while continuously learning AI and data analytics technologies.
 In previous projects, I was responsible for designing backend APIs, integrating frontend interfaces, deploying CI/CD pipelines, and collaborating with teams to deliver full-stack applications.
