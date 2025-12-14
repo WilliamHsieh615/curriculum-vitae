@@ -60,36 +60,36 @@
 - HTML5
 - CSS3、Sass
 - JavaScript、TypeScript、jQuery、Vue
-- Bootstrap5
-- Nuxt3、Nuxt4
+- Nuxt
 - Vite
+- Bootstrap5
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 後端技術 Backend
+### 後端技術 Backend / Java
 - Java
 - Spring Boot ( Web API、RESTful API、Spring MVC )
 - Spring Security ( 認證與授權、JWT )
 - Jakarta EE ( Servlet、JSP、JPA )
-- Docker
-- Tomcat
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007FFF?style=flat&logo=jakartaee&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+
+### 後端技術 Backend / Python
+- Python
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🔸 程式語言
 - 熟悉 Java、JavaScript、Python
@@ -97,10 +97,10 @@
 
 
 ### 🔸 AI、資料分析
-- 機器學習：DNN、CNN、AutoEncoder、RNN、LSTM
-- 深度學習框架：TensorFlow、PyTorch
-- 影像辨識與物件偵測：OpenCV、YOLO、MediaPipe
-- 自然語言處理：Word2Vec、BERT、Transformer、RAG
+- 機器學習 Machine Learning：DNN、CNN、AutoEncoder、RNN、LSTM
+- 深度學習框架 Deep Learning：TensorFlow、PyTorch
+- 影像辨識與物件偵測 Image Recognition：OpenCV、YOLO、MediaPipe
+- 自然語言處理 Natural Language Processing：Word2Vec、BERT、Transformer、RAG
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -112,30 +112,44 @@
 ![Transformer](https://img.shields.io/badge/Transformer-6C3483?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-1F618D?style=flat)
 
-### 🔸 資料庫 Database / 數據分析
-- MySQL、SQL Server、Power BI
+### 🔸 資料庫 Database / 數據分析 Data Analytics
+- MySQL
+- SQL Server
+- Power BI
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=black)
 
+### 🔸 開發與運行環境 DevOps
+- Docker
+- Tomcat
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
+
+### 🔸 版本控制 Version Control
+- Git
+- GitHub
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ### 🔸 辦公室應用 Office
-- Excel、Word、PowerPoint
+- Excel
+- Word
+- PowerPoint
 
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
+### 🔸 其他 Other (可閱讀但不熟悉)
+- C 語言
+- C++
+- C#
 
-### 🔸 版本控制 Version Control
-- Git / GitHub
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### 🔸 其他
-- Docker、Tomcat
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
